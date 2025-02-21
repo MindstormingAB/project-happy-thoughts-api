@@ -22,7 +22,7 @@ If I had more time, I would have implemented pagination.
 
 ## View it live
 
-You can take a look at the result on https://happy-thoughts-by-m.herokuapp.com/
+You can take a look at the result on https://project-happy-thoughts-api-518979433183.europe-north1.run.app.
 You are welcome to visit my pull request https://github.com/Technigo/project-happy-thoughts-api/pull/115 and leave some comments about my code.
 You will find the frontend deployed on https://happy-tweets-by-m.netlify.app/, the repository on https://github.com/MindstormingAB/happy-thoughts.
 Enjoy!
